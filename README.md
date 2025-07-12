@@ -12,7 +12,7 @@ The main goal is to use text analytics to explore the speech’s structure, iden
 
 ## 🔧 Methodology
 
-- **Data Source**: Speech text sourced from a public URL
+- **Data Source**: Speech text sourced from a public URL 🔗 [Dataset Link](http://www.sthda.com/sthda/RDoc/example-files/martin-luther-king-i-have-a-dream-speech.txt/)
 - **Tools Used**:  
   - R programming language  
   - Packages: `tm`, `SnowballC`, `wordcloud`, `RColorBrewer`
@@ -90,3 +90,4 @@ This project demonstrates how R-based text mining can offer rich insights into h
 *Data Analytics Graduate — Northeastern University*  
 *Machine Learning Enthusiast | Passionate about turning data into insights*  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-saif-wasay-4b3b64199/)
+
